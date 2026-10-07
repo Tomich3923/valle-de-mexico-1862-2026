@@ -1,0 +1,25 @@
+{
+  "imagePath": "image-targets/Texcocoblend_tablo_1280_luminance.jpeg",
+  "resources": {
+    "originalImage": "Texcocoblend_tablo_1280_original.jpeg",
+    "croppedImage": "Texcocoblend_tablo_1280_cropped.jpeg",
+    "thumbnailImage": "Texcocoblend_tablo_1280_thumbnail.jpeg",
+    "geometryImage": "Texcocoblend_tablo_1280_geometry.jpeg",
+    "luminanceImage": "Texcocoblend_tablo_1280_luminance.jpeg"
+  },
+  "name": "Texcocoblend_tablo_1280",
+  "type": "PLANAR",
+  "properties": {
+    "top": 137,
+    "left": 0,
+    "width": 1294,
+    "height": 1725,
+    "isRotated": false,
+    "originalWidth": 1294,
+    "originalHeight": 2000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1765776082002,
+  "updated": 1765776082002
+}
